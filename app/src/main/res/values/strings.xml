@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JetpackComposeMovieApp</string>
+    <string name="description">Movie image</string>
+</resources>
